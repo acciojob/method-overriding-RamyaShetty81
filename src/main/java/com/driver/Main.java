@@ -6,7 +6,7 @@ public class Main {
 
         public  String meth()
         {
-            return "Invoking method from A";
+            return "Invoking method from class A";
         }
     }
 
