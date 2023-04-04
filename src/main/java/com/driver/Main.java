@@ -4,7 +4,7 @@ public class Main {
 
     public static class A {
 
-        public String meth()
+        public static String meth()
         {
             return "Method is overridden in Extendend class B";
         }
